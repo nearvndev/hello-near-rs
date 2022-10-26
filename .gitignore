@@ -12,6 +12,7 @@ node_modules
 /integration-tests/target
 # keys
 /templates/react/neardev
+/contract/neardev
 
 # testing
 /coverage
